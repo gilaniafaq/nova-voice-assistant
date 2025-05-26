@@ -25,14 +25,14 @@ Nova isn’t just another voice assistant — it’s your personal gateway to in
 
 Ready to bring Nova to life? Follow these simple steps:
 
-1. **Clone the Repository**
+## 1. **Clone the Repository**
 
    ```bash
    git clone https://github.com/yourusername/nova-voice-assistant.git
    cd nova-voice-assistant
 ````
 
-2. **Install Dependencies**
+## 2. **Install Dependencies**
 
    Make sure you have Python 3.x installed, then run:
 
@@ -40,13 +40,13 @@ Ready to bring Nova to life? Follow these simple steps:
    pip install -r requirements.txt
    ```
 
-3. **Run Nova**
+## 3. **Run Nova**
 
    ```bash
    python main.py
    ```
 
-4. **Start Speaking**
+## 4. **Start Speaking**
 
    Say **"Nova"** and watch your commands come alive!
 
@@ -108,9 +108,8 @@ Nova Voice Assistant is open source, licensed under the **MIT License**.
 
 Thanks for checking out Nova — your voice, your control. Stay tuned for amazing updates and new features coming your way!
 
----
 
 **Say it loud, say it clear: "Nova" — your digital assistant is here!** 🚀
 
 ---
-_Made with ❤️ by [Syed Afaq Gilani]_
+*Made with ❤️ by Syed Afaq Gilani*
